@@ -1,10 +1,4 @@
-apiVersion: v1
-kind: Service
-metadata:
-  name: guestbook-ui
-spec:
-  ports:
-  - port: 80
-    targetPort: 80
-  selector:
-    app: guestbook-ui
+U2FsdGVkX19ENdhNliyZc4uKC2W8sV1OOCHi0dVwC4O3PP92we4xQAlJzMw7feXu
+6yzZ5+r12KZ+65xkpzdhzesVjnoLhJpn44VlpIn/eTwofkIt7XK8t+2NkHCM40s7
+gQpIdCNj0kCZJFggBUavGwh/5dxJyo1gleY2z1/o3XfpVPYpDXsTEYMkbiXTQTVD
+hWA1FpfaC85tAElHD1R2Ew==
