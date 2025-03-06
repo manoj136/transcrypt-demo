@@ -1,20 +1,9 @@
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: guestbook-uii
-spec:
-  replicas: 2
-  revisionHistoryLimit: 3
-  selector:
-    matchLabels:
-      app: guestbook-ui
-  template:
-    metadata:
-      labels:
-        app: guestbook-ui
-    spec:
-      containers:
-      - image: gcr.io/heptio-images/ks-guestbook-demo:0.2
-        name: guestbook-ui
-        ports:
-        - containerPort: 80
+U2FsdGVkX1/s57mO8u+A4rbOqyEuiFfyBEUGHQ/ecdXG9y5E+ulJr3dKcTvK7QqE
+nWI6gs+R8nOa79X1tterE3asjILGxZXOpvvW3gl2F35Q8OdT8NkwiD5W8oUeQilV
+h6RkrdLTtYNO6AhhoHLQCVP6ftChYgwbiyJm3TT7XZ0t71A/Ta/gjGxoYlt6QZQU
+Uxmr8HRTWdByA3WOV9L5YeE5Di8GVvV8avXw4v9GUTf8FRgPyHvKX+6adH0TjZjp
+ViA3RbF24v3kYQ4DnCRlXMVg93XVJ6xuTqYgyiShAyGp4oh4QIr6bBvEXpX0C8y1
+ZvbXIQU+tUivwxkM8zFwCWfIwIqTDKGDkXOyNFHCaLxcKDoYNn+oCTyR82WvLEB8
+PWIAhwUhdsJJNOhFS16HZ7Uc4ovitWnOMTZKSqg9W3RsftEzYD2dVF6dR2ulnaep
+yzL1JDuCn73/DTTRzlm2v/MeAGDgOq6Z8eYJWXwzzWEgEC0yE50yTrjZ0x92ywZm
+TMMcYaU4ZZ5RxXNy6ZJRCP/wsCXdXgL4QCTFhJmNNPk=
